@@ -1,4 +1,5 @@
 Subcircuits
+
 •1 x 556 Timer(multivibrator oscillator + monostable mode)
 •1 x 555 Timer (LFO)
 
