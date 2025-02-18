@@ -1,7 +1,7 @@
 
 ![4133951726338763189](https://github.com/user-attachments/assets/6fde5282-2471-419e-83f9-ad02d0a4c304)
 
-Welcome to CircularTonics APC Synthcard that Features.
+Welcome to CircularTonics Atari Punk Console Synthcard that Features.
 
 • Classic Atari Punk Console with a 556 Core and 555 timer L.F.O
 
